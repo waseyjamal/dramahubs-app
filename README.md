@@ -61,7 +61,7 @@ Or download directly from [GitHub Releases](https://github.com/waseyjamal/dramah
 
 ---
 
-## 📋 What's New — v1.3.2
+## 📋 What's New — v1.3.3
 
 - ✅ Browse by category — Turkish, Korean & World Series
 - ✅ New dedicated Latest Episodes screen
