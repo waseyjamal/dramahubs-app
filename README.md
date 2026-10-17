@@ -13,7 +13,7 @@
   <a href="https://dramahubs.stream/download/">
     <img src="https://img.shields.io/badge/Download-dramahubs.stream-red?style=for-the-badge" alt="Download"/>
   </a>
-  <img src="https://img.shields.io/badge/Version-1.3.2-blue?style=for-the-badge" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-1.3.4-blue?style=for-the-badge" alt="Version"/>
   <img src="https://img.shields.io/badge/Android-7.0%2B-green?style=for-the-badge" alt="Android"/>
   <img src="https://img.shields.io/badge/License-Free-brightgreen?style=for-the-badge" alt="Free"/>
   <img src="https://img.shields.io/badge/Size-29MB-orange?style=for-the-badge" alt="Size"/>
@@ -39,7 +39,7 @@ Or download directly from [GitHub Releases](https://github.com/waseyjamal/dramah
 
 - ✅ Virus-free & officially signed APK
 - 🚫 No spyware or trackers  
-- 📦 29 MB — Android 7.0+
+- 📦 32 MB — Android 7.0+
 - 🔄 Auto-updates built in
 
 ---
@@ -52,6 +52,7 @@ Or download directly from [GitHub Releases](https://github.com/waseyjamal/dramah
 | 📥 **Offline Downloads** | Save episodes, watch without internet |
 | ▶️ **Continue Watching** | Picks up exactly where you left off |
 | 🔖 **Watchlist** | Save your favorites, never lose track |
+| ⚡ **Shorts** | Bite-sized drama episodes in a vertical swipe feed |
 | 🔍 **Browse by Category** | Turkish, Korean & World Series |
 | 🔔 **Episode Alerts** | Telegram notifications for new episodes |
 | 🔄 **Auto-Update** | Updates itself — no manual reinstall |
@@ -61,14 +62,16 @@ Or download directly from [GitHub Releases](https://github.com/waseyjamal/dramah
 
 ---
 
-## 📋 What's New — v1.3.3
+## 📋 What's New — v1.3.4
 
+- ✅ New Shorts feed — bite-sized drama episodes in a vertical swipe experience
+- ✅ New Shorts tab added for easy access
+- ✅ Improved in-app update system for smoother, more reliable updates
 - ✅ Browse by category — Turkish, Korean & World Series
 - ✅ New dedicated Latest Episodes screen
 - ✅ New dedicated New Dramas screen
 - ✅ Home screen updated with new sections
 - ✅ Upcoming episode screen fully redesigned
-- ✅ Secure video streaming improved
 - ✅ Faster content loading with smart caching
 - ✅ Bug fixes and performance improvements
 
